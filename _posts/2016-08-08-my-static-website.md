@@ -1,10 +1,10 @@
 ---
-title=My static website - Work in progress
-type=post
-date=2016-08-08
-status=published
-pic=/img/2016-08/static_site.jpg
-category=tech
+title: My static website - Work in progress
+date: 2016-08-08
+status: published
+pic: /img/2016-08/static_site.jpg
+tags: tech
+category: tech
 ---
 
 ##Table of Contents  
