@@ -1,10 +1,10 @@
 ---
-title=SiteWeightWatcher - keeps your website slim
-date=2015-12-27
-type=post
-status=published
-category=SoftwareWeNeed
-pic=/img/2015-12/weightwatchers.jpg
+title: SiteWeightWatcher - keeps your website slim
+tag: [SoftwareWeNeed]
+article_header:
+  type: cover
+  image:
+    src: /img/2015-12/weightwatchers.jpg
 ---
 
 

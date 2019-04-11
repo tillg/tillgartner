@@ -1,10 +1,10 @@
 ---
-title=Ping Visualization and Analysis
-type=post
-date=2016-01-08
-status=published
-category=tech
-pic=/img/2016-01/ping.png
+title: Ping Visualization and Analysis
+category: [tech]
+article_header:
+  type: cover
+  image:
+    src: /img/2016-01/ping.png
 ---
 
 So this is the situation I am facing: I use an internet access that doesn't feel reliable. Sometimes it's really fast, sometimes it just feels being very unreliable. And I never know what part exactly is just failing: Is the the application that is slow, is it the WIFI, is it the Internet access.

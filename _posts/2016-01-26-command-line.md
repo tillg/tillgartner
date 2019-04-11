@@ -1,8 +1,10 @@
 ---
 title: The Art of Command Line
-date: 2016-01-26
-category: tech
-pic: /img/2016-01/command_line.png
+tags: [tech]
+article_header:
+  type: cover
+  image:
+    src: /img/2016-01/command_line.png
 ---
 
 A really helpful resource I found yesterday:

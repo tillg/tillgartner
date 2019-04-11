@@ -1,9 +1,6 @@
 ---
-title=Visited countries
-type=post
-date=2016-01-04-10:00
-status=published
-category=tech
+title: Visited countries
+tag: [tech]
 ---
 A nice tool to play around - because it's nice to see where you've been and because it's a nice piece of JS:
 
