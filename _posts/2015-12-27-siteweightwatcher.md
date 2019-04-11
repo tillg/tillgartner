@@ -1,10 +1,11 @@
+---
 title=SiteWeightWatcher - keeps your website slim
 date=2015-12-27
 type=post
 status=published
 category=SoftwareWeNeed
 pic=/img/2015-12/weightwatchers.jpg
-~~~~~~
+---
 
 
 Good software developers test their stuff. And the [TDD (Test Driven Development)](https://www.wikiwand.com/en/Test-driven_development) addicts are maniacs when it comes to testing. Those guys usually think in code, be it Java, Python, nodeJS, you name it. TDD means you write tests first, then you code just as much as it takes to let the tests become green. Then you rework your code and only then you start writing tests for new requirements. 

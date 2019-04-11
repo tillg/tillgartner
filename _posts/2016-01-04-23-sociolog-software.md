@@ -1,10 +1,11 @@
+---
 title=sociolog - Your trail across social media
 type=post
 date=2016-01-04-23:00
 status=published
 category=SoftwareWeNeed
 pic=/img/2016-01/sociolog.png
-~~~~~~
+---
 
 I write or blog in different media:
 

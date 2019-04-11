@@ -1,10 +1,11 @@
+---
 title=Playing around with D3
 type=post
 date=2016-02-13
 status=published
 category=tech
 pic=/img/2016-02/d3.png
-~~~~~~
+---
 
 During my holiday week I played around with [D3 js](https://d3js.org/). I was fascinated by D3 since the first time I saw it, but I never had time to really play with it. Now I did - a little bit...
 
