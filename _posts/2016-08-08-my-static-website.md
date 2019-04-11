@@ -7,7 +7,7 @@ tags: tech
 category: tech
 ---
 
-##Table of Contents  
+## Table of Contents  
 [Criteria](#criteria)  
 [Generators](#generators)  
 [Evaluation Matrix](#matrix)  
@@ -17,7 +17,7 @@ OK, everytbody does it, even I do it: Static websites. It's fast, it's safe, it 
 
 Therefore I need anotrher setup. I plan to have a look at some different static web site systems, and set up a list of criteria against which I plan to test the different generators...
 
-<a name="criteria"/>
+<a name="criteria">
 ## Criteria
 </a>
 
@@ -49,7 +49,7 @@ Therefore I need anotrher setup. I plan to have a look at some different static 
     - At least a programming language I know a bit - or that I am curious to learn (that basically boils it down to Java and JavaScript)
     - The generated HTML should be as simple as possible. All formatting sits in the CSS
 
-<a name="generators"/>
+<a name="generators">
 ## Generators
 </a>
 
@@ -73,7 +73,7 @@ When scanning the literature (and Github). this is the list of generators rthat 
 - Doc pad - Done
 - kirby - Done
 
-<a name="matrix"/>
+<a name="matrix">
 ## Evaluation Matrix
 </a>
 
@@ -101,7 +101,7 @@ As a result I should have a closer look at *[Harp JS](https://harpjs.com/)*, *[M
 
 After quickly reading thru the websites of the above tools I decided to give it a try with *[Metalsmith](http://www.metalsmith.io/)*.
 
-<a name="editors"/>
+<a name="editors">
 ## Editors
 </a> 
 
