@@ -1,11 +1,9 @@
-title=A Proxy for offline surfing
-type=post
-date=2010-07-29
-status=published
-category=SoftwareWeNeed
-~~~~~~
+---
+title: A Proxy for offline surfing
+tags: [SoftwareWeNeed]
+---
 
-his is a piece of software I would love to have: A proxy that runs on my notebook and that intelligently caches certain websites so I can surf them when being offline.
+This is a piece of software I would love to have: A proxy that runs on my notebook and that intelligently caches certain websites so I can surf them when being offline.
 
 More specifically:
 
