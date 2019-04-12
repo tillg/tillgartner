@@ -1,12 +1,13 @@
-title=How I moved to GitHub & JBake
-date=2015-11-30
-type=post
-status=published
-category=tech
-pic=/img/2015-11/github.png
-~~~~~~
+---
+title: How I moved to GitHub & JBake
+tags: [tech, webPage]
+article_header:
+  type: cover
+  image:
+    src: /img/2015-11/github.png
+---
 
-***** This page is under construction *****
+***** This page is ~~under construction~~ unfinished... *****
 
 First: It's not my invention! Many did it before, there are lots of description out there. It still took me some time ;)
 

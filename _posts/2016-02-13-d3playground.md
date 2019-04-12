@@ -2,7 +2,7 @@
 title: Playing around with D3
 date: 2016-02-13
 category: [tech]
-tags: [tech, JavaScript]
+tags: [tech, javaScript]
 article_header:
   type: cover
   image:

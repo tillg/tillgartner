@@ -1,9 +1,7 @@
-title=Absacker (aka nightcap)
-date=2015-06-01
-type=post
-status=published
-category=trip
-~~~~~~
+---
+title: Absacker (aka nightcap)
+tags: [trip, Vietnam]
+---
 
 Since its my last evening in Da Nang, I’d like to introduce you to my nightcap traditions that I have elaborated the last 3 weeks. 
 

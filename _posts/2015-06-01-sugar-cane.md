@@ -1,9 +1,7 @@
-title=Sugar cane drink
-date=2015-06-01
-type=post
-status=published
-category=trip
-~~~~~~
+---
+title: Sugar cane drink
+tags: [trip]
+---
 
 Just because it’s my last food shop in Da Nang (for this time), and because I never mentioned it. 
 

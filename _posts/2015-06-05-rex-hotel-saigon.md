@@ -1,9 +1,7 @@
-title=Rex Hotel in Saigon
-date=2015-06-05
-type=post
-status=published
-category=trip
-~~~~~~
+---
+title: Rex Hotel in Saigon
+tags: [trip, Vietnam]
+---
 
 The first one to mention it to me was my father in law (Danke Henry!). He said: “When you go to HCMC, do you stay in the famous Hotel Rex?”. I had never heard about it, but he told me about the Americans staying there during the American War (that’s how they call this war here in Vietnam).
 When arranging meetings here in Saigon, another guy I was supposed to meet came up with a list of hotels where we could meet, and when I saw the Rex I immediatly picked this one. Additionally it was within our budget.

@@ -1,2 +1,2 @@
 # tillgartner
-Testing a new website
+My website built with [https://jekyllrb.com/](jekyll) and the [https://tianqi.name/jekyll-TeXt-theme/](TeXt theme)

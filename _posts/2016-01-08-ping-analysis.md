@@ -1,6 +1,6 @@
 ---
 title: Ping Visualization and Analysis
-category: [tech]
+tags: [tech]
 article_header:
   type: cover
   image:
