@@ -1,5 +1,5 @@
 ---
-title: Crowdsourcing: Zahle 100,- € für Wappen
+title: Crowdsourcing! Zahle 100,- € für Wappen
 tags: [tech]
 ---
 

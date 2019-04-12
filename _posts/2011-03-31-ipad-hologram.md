@@ -1,8 +1,6 @@
-title=iPad Hologram
-date=2011-03-31
-type=post
-status=published
-~~~~~~
+---
+title: iPad Hologram
+---
 
 Diese hidden Features sind schon toll!
 

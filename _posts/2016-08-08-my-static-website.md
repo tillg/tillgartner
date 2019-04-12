@@ -2,8 +2,7 @@
 title: My static website
 date: 2016-08-08
 status: published
-tags: tech
-category: tech
+tags: [tech, webSite]
 article_header:
   type: cover
   image:

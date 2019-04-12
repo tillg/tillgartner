@@ -1,9 +1,7 @@
-title=Friday night in Da Nang
-date=2015-05-29
-type=post
-status=published
-category=trip
-~~~~~~
+---
+title: Friday night in Da Nang
+tags: [trip, Vietnam]
+---
 
 Ok, it’s Friday night, the hard work part of my stay in Da Nang is mostly done – so I hit the road for a bar hopping tour. 
 

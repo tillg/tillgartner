@@ -1,8 +1,6 @@
-title=Was braucht man auf seinem Mac
-date=2010-09-02
-type=post
-status=published
-~~~~~~
+---
+title: Was braucht man auf seinem Mac
+---
 
 Nachdem ich oft von Freunden gefragt werde, was man für Programme auf seinem Mac braucht, will ich das ein für alle mal beantworten. Nicht, dass ich sagen könnte, was andere Leute brauchen – aber ich erzähl einfach mal, was ich so habe. Ich geh’ mal alphabetisch meine App-Liste durch (nicht vollständig)…
 

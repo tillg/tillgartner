@@ -1,6 +1,6 @@
 ---
 title: How I moved to GitHub & JBake
-tags: [tech, webPage]
+tags: [tech, webSite]
 article_header:
   type: cover
   image:

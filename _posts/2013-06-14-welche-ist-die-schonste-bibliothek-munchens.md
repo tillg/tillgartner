@@ -1,9 +1,10 @@
-title=Welche ist die schönste Bibliothek Münchens?!
-date=2013-06-14
-type=blog
-status=published
-pic=/img/bib.jpg
-~~~~~~
+---
+title: Welche ist die schönste Bibliothek Münchens?!
+article_header:
+  type: cover
+  image:
+    src: /img/bib.jpg
+---
 
 In letzter Zeit war ich einige Male (bisher sind es nur 3x) in der Bibliothek zum Arbeiten. Nein nein, ich bin schon noch bei [mgm technology partners](mgm-tp.com) angestellt, und habe dort auch noch mein Büro – sogar ein sehr schönes. Aber gelegentlich muss ich längere Dokumente schreiben. Oder ich habe Termine in der Stadt, bin mit dem Fahrrad unterwegs, und möchte nicht für eine Stunde zu mgm und dann wieder nach hause fahren.
 

@@ -1,6 +1,6 @@
 ---
 title: sociolog - Your trail across social media
-tags: [SoftwareWeNeed]
+tags: [softwareWeNeed]
 article_header:
   type: cover
   image:

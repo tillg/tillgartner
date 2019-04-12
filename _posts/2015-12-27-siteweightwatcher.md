@@ -1,6 +1,6 @@
 ---
 title: SiteWeightWatcher - keeps your website slim
-tag: [SoftwareWeNeed]
+tag: [softwareWeNeed]
 article_header:
   type: cover
   image:

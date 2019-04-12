@@ -1,8 +1,6 @@
-title=Missing App
-date=2011-01-11
-type=post
-status=published
-~~~~~~
+---
+title: Missing App
+---
 
 Die Email bekam ich eben von einer Kollegin – wieso bloß…?
 
