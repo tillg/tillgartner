@@ -1,5 +1,5 @@
 ---
-title: My static website - Work in progress
+title: My static website
 date: 2016-08-08
 status: published
 tags: tech
