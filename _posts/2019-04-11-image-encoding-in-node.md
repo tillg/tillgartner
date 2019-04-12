@@ -25,8 +25,8 @@ These are the different operations I am doing and what they provide as output:
 * Reading a file from disk with `fs`: return a `Buffer`with binary data
 * 
 
-This are the sources and targets in/from which image data is transferred in my example:
-![Image sources and targets](<https://docs.google.com/drawings/d/e/2PACX-1vTaOoDUdKWZ9q05WH1LX1Yz_JbismNFdrYMoFYYsbU410xf23mi4GxRv_ZvhIQipnLDXunKU5eCh-Ju/pub?w=960&amp;h=720")
+These are the sources and targets in/from which image data is transferred in my example:
+![Image sources and targets](https://docs.google.com/drawings/d/e/2PACX-1vTaOoDUdKWZ9q05WH1LX1Yz_JbismNFdrYMoFYYsbU410xf23mi4GxRv_ZvhIQipnLDXunKU5eCh-Ju/pub?w=960&amp;h=720)
 
 ## Reading
 
