@@ -36,4 +36,5 @@ This is my little ToDo list:
 * Add comments
 * Posts that have a cover image should show it on the blog post overview page (aka home page)
 * Make a collection _softwareWeNeed_
+* Have the last build date & time displayed in the footer of the pages.
 
