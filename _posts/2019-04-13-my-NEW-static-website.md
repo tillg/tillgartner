@@ -1,5 +1,5 @@
 ---
-title: My NEW static website...
+title: My new static website...
 tags: [tech, webSite]
 article_header:
   type: cover
