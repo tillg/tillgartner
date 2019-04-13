@@ -1,6 +1,6 @@
 
 ########## Ignore app specific stuff #########
-**/_site/**
+#_site/*
 **/temp
 .env
 
