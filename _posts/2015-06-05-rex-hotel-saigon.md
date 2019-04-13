@@ -5,6 +5,7 @@ tags: [trip, Vietnam]
 
 The first one to mention it to me was my father in law (Danke Henry!). He said: “When you go to HCMC, do you stay in the famous Hotel Rex?”. I had never heard about it, but he told me about the Americans staying there during the American War (that’s how they call this war here in Vietnam).
 When arranging meetings here in Saigon, another guy I was supposed to meet came up with a list of hotels where we could meet, and when I saw the Rex I immediatly picked this one. Additionally it was within our budget.
+
 So what’s special about Rex Hotel? Certainly it’s history. And the style is special and unusual. It’s not a top modern de luxe hotel, but it’s easy going and has a lot of features.
 
 It’s very well located, right in the center of Saigon
