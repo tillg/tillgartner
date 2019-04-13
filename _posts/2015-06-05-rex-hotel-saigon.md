@@ -11,7 +11,7 @@ So what’s special about Rex Hotel? Certainly it’s history. And the style is 
 It’s very well located, right in the center of Saigon
 
 
-![Rex]({{"/img/2015-06/img_1681.jpg"}})
+![Rex]({{ site.baseurl }}/img/2015-06/img_1681.jpg)
 
 This is the square right in front of Rex Hotel:
 
