@@ -15,37 +15,37 @@ It’s very well located, right in the center of Saigon
 
 This is the square right in front of Rex Hotel:
 
-![Rex](/img/2015-06/img_1741.jpg)
+![Rex]({{ site.baseurl }}/img/2015-06/img_1741.jpg)
 
 It has a nice entrance area that fits the Asian need to show off
 
-![Rex](/img/2015-06/img_1673.jpg)
+![Rex]({{ site.baseurl }}/img/2015-06/img_1673.jpg)
 
 
 The rooms are nice, spacious and clean. And best: No carpet!
 
-![Rex](/img/2015-06/img_1645.jpg)
+![Rex]({{ site.baseurl }}/img/2015-06/img_1645.jpg)
 
-![Rex](/img/2015-06/img_1646.jpg)
+![Rex]({{ site.baseurl }}/img/2015-06/img_1646.jpg)
 
 They have the famous Roof Top bar – although it’s pretty empty every time I checked:
 
-![Rex](/img/2015-06/img_1650.jpg)
+![Rex]({{ site.baseurl }}/img/2015-06/img_1650.jpg)
 
-![Rex](/img/2015-06/img_1684.jpg)
+![Rex]({{ site.baseurl }}/img/2015-06/img_1684.jpg)
 
 They have multiple pools. That’s the central and biggest one:
 
-![Rex](/img/2015-06/img_1664.jpg)
+![Rex]({{ site.baseurl }}/img/2015-06/img_1664.jpg)
 
 
 And they have a tennis court. Yes, in the middle of super-busy-Saigon they have a tennis court on top of all:
 
-![Rex](/img/2015-06/img_1656.jpg)
+![Rex]({{ site.baseurl }}/img/2015-06/img_1656.jpg)
 
 Since in Saigon running is no fun in the streets (I miss the beaches of Da Nang!), I used their treadmills and pool every morning:
 
-![Rex](/img/2015-06/img_1690.jpg)
+![Rex]({{ site.baseurl }}/img/2015-06/img_1690.jpg)
 
 
 Besides the fact that beaches are just 100x nicer, the music in the fitness studio really kills you!

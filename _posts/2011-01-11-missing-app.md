@@ -10,7 +10,7 @@ wünsche dir ein gutes neues Jahr!
 
 Beiliegenden Witz habe ich gerade bekommen und musst an Dich denken ;-)
 
-![no_app](/img/2011-01/no_app.jpg)
+![no_app]({{ site.baseurl }}/img/2011-01/no_app.jpg)
 
 Viele Grüße,
 XYZ

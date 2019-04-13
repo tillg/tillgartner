@@ -34,7 +34,7 @@ Fri Jan  8 15:15:39 ICT 2016: 64 bytes from 185.40.248.50: icmp_seq=99 ttl=53 ti
 
 Pretty simple, uh?! A simple `ping` with a timestamp in front. And the JS stuff reads it and makes a simple graph from it:
 
-![graph](/img/2016-01/ping.png)
+![graph]({{site.baseurl}}/img/2016-01/ping.png)
 
 I just had to fix some small things to make it run on my Mac (the `ping` syntax was from another Unix slang). 
 

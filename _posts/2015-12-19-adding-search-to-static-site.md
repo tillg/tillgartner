@@ -15,7 +15,7 @@ These are the steps I took to get there:
 ## Create the Custom Search Engine
 Nothing easiere: Just go to the [Google CSE page](http://www.google.com/cse) and create it. The process is self explanatory: You need a name for your search engine, you tell it what content should be made available. In my case this would be all from [tillgartner.com](tillgartner.com) and that's basically it. We will return at the end to this site in order to fine tune the look & feel of the results.
 
-![Google CSE administration](/img/2015-12-19_search_engine/Custom_Search_-_Basic.jpg)
+![Google CSE administration]({{site.baseurl}}/img/2015-12-19_search_engine/Custom_Search_-_Basic.jpg)
 
 The one thing we need from here is the code in order to embed the search. You get this code by clicking the bitton "**Get Code**".
 
@@ -68,7 +68,7 @@ It's standard Bootstrap menu jiggling. What's special in our case is the `action
 
 The result is a neat little serach box on the top right corner:
 
-![Search box](/img/2015-12-19_search_engine/search_box.jpg)
+![Search box]({{site.baseurl}}/img/2015-12-19_search_engine/search_box.jpg)
 
 ## Search result page
 Last but not least we need the search result page. This page will be called (i.e. linked to) from the search form we just made. It's URL will be something like 
@@ -108,7 +108,7 @@ It took me a while to figure out how to tell markdown that this is pure HTML and
 
 Some reading that helped me to find wy way:
 
-* Create your own search engine at [http://www.google.com/cse](http://www.google.com/cse)
-* http://www.cambiaresearch.com/articles/84/how-to-integrate-a-google-custom-search-popup-in-a-bootstrap-navbar
-* https://developers.google.com/custom-search/docs/tutorial/implementingsearchbox
+* [Create your own search engine](http://www.google.com/cse)
+* [How to Integrate a Google Custom Search Popup In a Bootstrap Navbar](http://www.cambiaresearch.com/articles/84/how-to-integrate-a-google-custom-search-popup-in-a-bootstrap-navbar)
+* [Implementing search box, by Google](https://developers.google.com/custom-search/docs/tutorial/implementingsearchbox)
 

@@ -6,6 +6,9 @@ tags: [tech]
 
 I've been playing around with HTML & JavaScript. And Geometry is just it  ;)
 
+Unfortunatly the script won't render here, nso I just show you the code:
+
+```html
 <div id="c" onload="Draw()"> </div>
 
 <script>
@@ -76,3 +79,4 @@ c.addEventListener("click", function() {
 }, false)
 
 </script>
+```

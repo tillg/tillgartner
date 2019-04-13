@@ -14,7 +14,7 @@ Hier nehme ich mal die Bibliotheken auf, die ich schon besucht habe. Und wenn Ih
 
 * **[Deutsches Museum](http://www.deutsches-museum.de/bibliothek/)**: Mein aktueller Favorit: Große Tische zum Arbeiten, schöne Räumlichkeiten, meistens gut Platz.
 Juristische Bib, LMU: Da scheint es wohl mehrere zu geben. Die eine, in der ich war, war alles andere als schön. Da hatte ich mehr erwartet von den Juristen…
-* **[Juristische Bib im Rathaus, Stadtbibliothek](http://www.muenchen.de/rathaus/Stadtinfos/Rundgang-durch-das-Neue-Rathaus/Juristische-Bibliothek.html)**: OK, die Juristen können doch Bibliothek! Diese Bib ist eine Schmuckstück! Die Lage ist zentral, die Atmosphäre arbeitsam. Der Zugang ist OKish (Schließfächer vor der Beb, Notebook darf rein, Notebook-Tasche nicht). nett: Es gibt hier ein WLAN-Zugang! ![Juristische Bib im Rathaus](/img/bib.jpg)
+* **[Juristische Bib im Rathaus, Stadtbibliothek](http://www.muenchen.de/rathaus/Stadtinfos/Rundgang-durch-das-Neue-Rathaus/Juristische-Bibliothek.html)**: OK, die Juristen können doch Bibliothek! Diese Bib ist eine Schmuckstück! Die Lage ist zentral, die Atmosphäre arbeitsam. Der Zugang ist OKish (Schließfächer vor der Beb, Notebook darf rein, Notebook-Tasche nicht). nett: Es gibt hier ein WLAN-Zugang! ![Juristische Bib im Rathaus]({{ site.baseurl }}/img/bib.jpg)
 * **Mathematisches Institut der LMU**: Die Bücher dort sind schön (Mathe-Bücher halt…). Die Bib war schon abgegrabbelt als ich noch studiert habe, und seitdem haben sie nichts renoviert oder repariert glaube ich.
 StaBi, Staatsbibliothek: Groß, ganz nett, schöne Tische, schöner Raum. Etwas anonym.
 Außer Konkurrenz sind folgende Bibs:

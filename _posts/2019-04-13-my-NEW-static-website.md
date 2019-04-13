@@ -19,23 +19,5 @@ So here is my stack as it looks today:
 * The static site is generated with [jekyll](https://jekyllrb.com/)
 * I use the [TeXt theme](https://tianqi.name/jekyll-TeXt-theme/), and configured it.
 
-What I have done so far:
-
-* I set up tollgartner with the new Jekyll TeXt theme
-* I fixed my old posts so they render properly with Jekyll
-* I configured TeXt so it looks more the way I like it.
-
-
-This is my little ToDo list:
-
-* Fix the problem of inline pictures in blog entries not being displayed
-* Migrate the recipes as collection
-* Move to my URL http://tillgartner.com
-* Add Google trackinbg and ideally have a report of the site usage available to the site readers...
-* Change favicon to till logo - or make a new logo...
-* Learn about fixed URLs for posts so they can be referenced
-* Add comments
-* Posts that have a cover image should show it on the blog post overview page (aka home page)
-* Make a collection _softwareWeNeed_
-* Have the last build date & time displayed in the footer of the pages.
+[This is]({{ site.baseurl }}/changelog) what I have done so far, and [this is my to do list]({{site.baseurl}}/todo)
 

@@ -15,8 +15,8 @@ Today we took non-soupy. Food was very good (as usual here), and for drinking we
 
 Pics are self-explanatory:
 
-![sugar cane](/img/2015-06/sugarcane1.jpg)
+![sugar cane]({{ site.baseurl }}/img/2015-06/sugarcane1.jpg)
 
-![sugar cane](/img/2015-06/sugarcane2.jpg)
+![sugar cane]({{ site.baseurl }}/img/2015-06/sugarcane2.jpg)
 
-![sugar cane](/img/2015-06/sugarcane3.jpg)
+![sugar cane]({{ site.baseurl }}/img/2015-06/sugarcane3.jpg)
