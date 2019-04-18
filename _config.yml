@@ -34,7 +34,7 @@ author:
   url:
   avatar: https://lh3.googleusercontent.com/-mVYLBZVHW0Y/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reAyw8RGOPnIP1VwZzfciTRoiqvWg/s48-c-mo/photo.jpg # path or url of avatar image (square)
   bio: I am an amazing person.
-  email:
+  email: till.gartner@gmail.com
   facebook: # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter: tillg # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo: # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -168,7 +168,6 @@ highlighter: rouge
 permalink: date
 
 exclude:
-  - CHANGELOG.md
   - HOW_TO_RELEASE.md
   - Gemfile
   - Gemfile.lock
@@ -188,7 +187,6 @@ exclude:
 defaults:
   - scope:
       path: ""
-      type: posts
     values:
       mode: normal
       layout: article
@@ -208,3 +206,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+collections:
+  recipes:
+    output: true
