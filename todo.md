@@ -4,8 +4,6 @@ title: To Do & Changelog
 
 # To do
 
-* Migrate the recipes as collection
-* Change favicon to till logo - or make a new logo...
 * Move to my URL http://tillgartner.com
 * Add Google tracking and ideally have a report of the site usage available to the site readers...
 * Learn about fixed URLs for posts so they can be referenced
@@ -17,6 +15,12 @@ title: To Do & Changelog
 * Give the recipes their images back...
 
 # Changelog
+
+## April 18th 2019
+
+* Added Icons
+* Made the recipes work
+
 
 ## April 13th 2019
 
