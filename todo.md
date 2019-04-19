@@ -4,7 +4,6 @@ title: To Do & Changelog
 
 # To do
 
-* Move to my URL http://tillgartner.com
 * Add Google tracking and ideally have a report of the site usage available to the site readers...
 * Learn about fixed URLs for posts so they can be referenced
 * Add comments
@@ -15,6 +14,10 @@ title: To Do & Changelog
 * Give the recipes their images back...
 
 # Changelog
+
+## Friday, April 19th 2019
+
+* Moved to my URL http://tillgartner.com
 
 ## April 18th 2019
 
