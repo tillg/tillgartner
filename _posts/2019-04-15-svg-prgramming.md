@@ -1,5 +1,5 @@
 ---
-title: SVG programming - Reading list
+title: SVG programming - Reading list 1
 tags: [tech]
 ---
 
