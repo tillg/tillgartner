@@ -16,11 +16,6 @@ titles:
   ko-KR   : *KO
   de	  : &DE      Über mich
 key: page-about
-article_header:
-  type: cover
-  image:
-    src: /img/till_helm.jpg
-
 ---
 
 This is the website of Till Gartner. I'm a simple guy with simple hobbies, like
