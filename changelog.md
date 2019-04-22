@@ -4,12 +4,12 @@ title: To Do & Changelog
 
 # To do
 
+- Have the last build date & time displayed in the footer of the pages.
 - Add Google tracking and ideally have a report of the site usage available to the site readers...
 - Learn about fixed URLs for posts so they can be referenced
 - Add comments
 - Posts that have a cover image should show it on the blog post overview page (aka home page)
 - Make a collection _softwareWeNeed_
-- Have the last build date & time displayed in the footer of the pages.
 - Have the generated site be automatically checked for broken links
 - Give the recipes their images back...
 
@@ -18,6 +18,7 @@ title: To Do & Changelog
 ## Monday, April 22nd 2019
 
 - Changed the `site.webmanifest` to have a proper name when saving the website shortcut on iOS screen.
+- Added Google ID for tracking on Google analytics. TODO: Does it work?
 
 ## Friday, April 19th 2019
 
