@@ -5,6 +5,7 @@ title: To Do & Changelog
 # To do
 
 - Have the last build date & time displayed in the footer of the pages.
+- Automatically resize images when generating site
 - Add Google tracking and ideally have a report of the site usage available to the site readers...
 - Learn about fixed URLs for posts so they can be referenced
 - Add comments
