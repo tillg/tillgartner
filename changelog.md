@@ -5,9 +5,11 @@ title: To Do & Changelog
 # To do
 
 - Automatically resize images when generating site
+  - See [this article](https://www.kevan.tv/articles/automatic-image-resizing-with-jekyll-and-imagemagick/)
 - Add Google tracking and ideally have a report of the site usage available to the site readers...
+  - See [this article](https://support.google.com/analytics/answer/1151300?hl=en)
 - Learn about fixed URLs for posts so they can be referenced
-- Add comments
+- Add comments, probably with disqus
 - Posts that have a cover image should show it on the blog post overview page (aka home page)
 - Make a collection _softwareWeNeed_
 - Have the generated site be automatically checked for broken links
