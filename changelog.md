@@ -4,7 +4,6 @@ title: To Do & Changelog
 
 # To do
 
-- Have the last build date & time displayed in the footer of the pages.
 - Automatically resize images when generating site
 - Add Google tracking and ideally have a report of the site usage available to the site readers...
 - Learn about fixed URLs for posts so they can be referenced
@@ -15,6 +14,11 @@ title: To Do & Changelog
 - Give the recipes their images back...
 
 # Changelog
+
+## Tuesday, April 23rd 2019, Waterfront Bar over lunch
+
+- Fixed Google Analytics
+- Have the last build date & time displayed in the footer of the pages.
 
 ## Monday, April 22nd 2019
 
