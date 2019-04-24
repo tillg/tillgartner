@@ -4,6 +4,7 @@ title: To Do & Changelog
 
 # To do
 
+- Make bookmarks page available
 - Automatically resize images when generating site
   - See [this article](https://www.kevan.tv/articles/automatic-image-resizing-with-jekyll-and-imagemagick/)
 - Add Google tracking and ideally have a report of the site usage available to the site readers...
