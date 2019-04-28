@@ -55,7 +55,7 @@ So: parking the bike, going to the elevator that leads to floor #57 – “Sorry
 
 Tough luck. 
 
-So I finish the evening in one of my “standards”, the [Minsk Bar](http://danangplaces.com/2015/10/07/minsk-bar/). Close by the hotel, very laid back, reggae music.
+So I finish the evening in one of my “standards”, the [Minsk Bar](http://www.danangexperience.com/minsk_bar_danang.html). Close by the hotel, very laid back, reggae music.
 
 ![friday night]({{ site.baseurl }}/img/2015-05/friday10.jpg)
 

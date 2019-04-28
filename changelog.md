@@ -7,7 +7,7 @@ title: To Do & Changelog
 - Automatically resize images when generating site
   - See [this article](https://www.kevan.tv/articles/automatic-image-resizing-with-jekyll-and-imagemagick/)
 - Learn about fixed URLs for posts so they can be referenced
-- Add comments, probably with disqus
+- Add xith disqus
 - Posts that have a cover image should show it on the blog post overview page (aka home page)
 - Make a collection _softwareWeNeed_
 - Have the generated site be automatically checked for broken links
@@ -15,13 +15,12 @@ title: To Do & Changelog
 - Make bookmarks page available
 
 # Changelog
-
-## Sunday, April 28th 2019, Munich, Café Wiener Platz
-
+## Sunday, April 28th 2019, Munich, Café Wiener Platz / Gartner parent's home
+ 
 - Switched to the Gem Based version of the TeXt Theme (remotely loaded from Github)
 - Changed the logo to blue ;)
 - Switched off `show_edit_on_github`
-- 
+- Started having tests for broken links
 
 ## Tuesday, April 23rd 2019, Waterfront Bar over lunch
 

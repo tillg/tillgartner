@@ -7,7 +7,7 @@ Diese Webseite heißt gartnerich.com weil sie von der Familie Gartner ist. Und w
 Etwas hat man allerdings davon: Ein Wappen!
 Unser Wappen schaut so aus:
 
-![wappen]({{ site.baseurl }}/img/2010-04/gartner-wappen.jpg)
+![wappen]({{ site.baseurl }}/img/2010-04/gartner_wappen.jpg)
 
 Unser Adelsbrief stammt vom 15.11.1699 und in ihm wird das Wappen etwa wie folgt beschrieben:
 

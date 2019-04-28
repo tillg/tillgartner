@@ -19,5 +19,5 @@ So here is my stack as it looks today:
 * The static site is generated with [jekyll](https://jekyllrb.com/)
 * I use the [TeXt theme](https://tianqi.name/jekyll-TeXt-theme/), and configured it.
 
-[This is]({{ site.baseurl }}/changelog) what I have done so far, and [this is my to do list]({{site.baseurl}}/todo)
+[This is](/changelog.html) what I have done so far & my to do list.
 

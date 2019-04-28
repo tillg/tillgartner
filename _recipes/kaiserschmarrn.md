@@ -4,7 +4,7 @@ tags: [recipe]
 pic: /img/2015-12/kaiserschmarrn.jpg
 ---
 
-Angeblich das beste Kaiserschmarrn-Rezept, vom [Schuhbeck Alfons](https://www.schuhbecks-kochclub.de/karamellisierter-kaiserschmarren/)...
+Angeblich das beste Kaiserschmarrn-Rezept, vom [Schuhbeck Alfons](https://www.schuhbeck.de/rezepte/karamellisierter-kaiserschmarren/)...
 
 ## Zutaten für 4 Personen
 Für den Schmarren:

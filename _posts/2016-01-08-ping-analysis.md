@@ -11,7 +11,7 @@ So this is the situation I am facing: I use an internet access that doesn't feel
 
 So want I have been looking for is a reliable, long-term measurement of internet access speed. By speed I mean mainly round-trip time / latency. I looked at many tools, large ones (the ones that come from complete eco systems like Nagios or ecinga) small one (i.e. network usage tracking directly on your PC or Mac). The big ones are too much work and too much stuff that needs to be learned, understood, installed. The small ones don't answer my question since they don't do long term tracking and recording. And I don't like complex stuff.
 
-Then found something that is in the essence exactly what I have been looking for. Re-phrtase: If I would have started putting something together myself, this is what I would have built: It's called [Ping Visualization and Analysis](http://www.medienvilla.com/index.php?id=231) and it is based on 2 components;
+Then found something that is in the essence exactly what I have been looking for. Re-phrtase: If I would have started putting something together myself, this is what I would have built: It's called [Ping Visualization and Analysis](http://www.medienvilla.com/entwicklung.html#pinganalyse) and it is based on 2 components;
 
 * One simple script that logs ping times (and by simple I mean _realy simple!_)
 * One HTML page with some JavaScript that visualizes the ping times over time.

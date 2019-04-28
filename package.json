@@ -5,6 +5,7 @@
 	"scripts": {
 		"start": "npm run serve",
 		"build": "bundle exec jekyll build",
+		"test": "bundle exec htmlproofer ./_site",
 		"serve": "bundle exec jekyll serve -H 0.0.0.0",
 		"default": "bundle exec jekyll serve -H 0.0.0.0 -t",
 		"dev": "bundle exec jekyll serve -H 0.0.0.0 -t --config ./docs/_config.dev.yml",

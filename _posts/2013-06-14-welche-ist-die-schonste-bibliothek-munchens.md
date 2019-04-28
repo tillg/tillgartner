@@ -4,9 +4,10 @@ article_header:
   type: cover
   image:
     src: /img/bib.jpg
+    alt: "Bib"
 ---
 
-In letzter Zeit war ich einige Male (bisher sind es nur 3x) in der Bibliothek zum Arbeiten. Nein nein, ich bin schon noch bei [mgm technology partners](mgm-tp.com) angestellt, und habe dort auch noch mein Büro – sogar ein sehr schönes. Aber gelegentlich muss ich längere Dokumente schreiben. Oder ich habe Termine in der Stadt, bin mit dem Fahrrad unterwegs, und möchte nicht für eine Stunde zu mgm und dann wieder nach hause fahren.
+In letzter Zeit war ich einige Male (bisher sind es nur 3x) in der Bibliothek zum Arbeiten. Nein nein, ich bin schon noch bei [mgm technology partners](http://mgm-tp.com) angestellt, und habe dort auch noch mein Büro – sogar ein sehr schönes. Aber gelegentlich muss ich längere Dokumente schreiben. Oder ich habe Termine in der Stadt, bin mit dem Fahrrad unterwegs, und möchte nicht für eine Stunde zu mgm und dann wieder nach hause fahren.
 
 Da kommen die Bibliotheken ins Spiel. Zunächst einmal sind Bibliotheken schön (viele). Und um konzentriert zu Arbeiten, ist das Telefonverbot extrem hilfreich. Und es ist einfach eine nette Abwechslung zum Büro. Deswegen siche ich die schönste Bibliothek Münchens. Was man schön findet ist Geschmacksache. Aber vieles spielt rein: Wie sieht sie aus, wie sind die Tische, wie ist das Arbeiten mit dem Notebook, was kann man alles mit hinein nehmen… Euer persönlicher Geschmack zählt.
 
