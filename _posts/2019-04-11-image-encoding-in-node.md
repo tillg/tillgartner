@@ -1,12 +1,14 @@
 ---
 title: Image encoding in Node JS
 tags: [tech, javaScript, node]
-published: false
 article_header:
   type: cover
   image:
     src: /img/2019-04/base64.png
 ---
+
+**This article is work in progress!**
+
 
 While programming on a side project, I had to deal with images in a node application. My application is using [Express](https://expressjs.com/), [Amazon Rekognition](https://aws.amazon.com/rekognition/) as well as [Pouchdb](https://pouchdb.com/).
 
