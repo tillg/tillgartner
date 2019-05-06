@@ -7,7 +7,7 @@ title: To Do & Changelog
 - Automatically resize images when generating site
   - See [this article](https://www.kevan.tv/articles/automatic-image-resizing-with-jekyll-and-imagemagick/)
 - Learn about fixed URLs for posts so they can be referenced
-- Add xith disqus
+- Add comments with disqus
 - Posts that have a cover image should show it on the blog post overview page (aka home page)
 - Make a collection _softwareWeNeed_
 - Have the generated site be automatically checked for broken links
