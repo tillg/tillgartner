@@ -13,10 +13,12 @@ title: To Do & Changelog
 - Have the generated site be automatically checked for broken links
 - Give the recipes their images back...
 - Make bookmarks page available
+- Make a cool 404 page, [for example](http://ati.tn/)
 
 # Changelog
+
 ## Sunday, April 28th 2019, Munich, Café Wiener Platz / Gartner parent's home
- 
+
 - Switched to the Gem Based version of the TeXt Theme (remotely loaded from Github)
 - Changed the logo to blue ;)
 - Switched off `show_edit_on_github`
