@@ -1,5 +1,5 @@
 ---
-title: SVG programming - Reading list 
+title: SVG programming 
 tags: [tech]
 ---
 
@@ -10,3 +10,7 @@ For a side project I would like to have a nice, moving SVG Logo. While searching
 * [SVG Path Tutorial](http://xahlee.info/js/svg_path_spec.html), an old, but very well presented tutorial on SVG. The Path is just one part, but an interesting one...
 
 For my personal design (i.e. what I want to design), this [Google Maps Pin as SVG](https://upload.wikimedia.org/wikipedia/commons/d/d1/Google_Maps_pin.svg) is also helpful.
+
+And this is what I built:
+
+![spotz_logo](/img/2019-04/spotz.svg)
