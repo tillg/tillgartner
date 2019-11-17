@@ -1,10 +1,12 @@
-title=Tips for travelling Vietnam
-type=post
-date=2019-11-17
-status=published
-pic=/img/2019-11/vietnam_diving.jpeg
-category=travel
-~~~~~~
+---
+title: Tips for travelling Vietnam
+tags: [travel]
+article_header:
+  type: cover
+  image:
+    src: /img/2019-11/vietnam_diving.jpeg
+---
+
 
 Neulich fragte mich ein Freund nach Tips für's Reisen in Vietnam: Ein Freund von ihm wollte für 10 Tage (!!) nach Vietnam reisen. Die Tips, die ich bei dieser Gelegenheit zusamengetragen habe, habe ich seitdem noch mindestens 3x weitergegeben. Deswegen schreibe ich sie jetzt hier auf. Und deshalb in der Dialog-Form...
 
