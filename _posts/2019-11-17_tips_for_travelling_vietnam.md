@@ -8,9 +8,9 @@ category=travel
 
 Neulich fragte mich ein Freund nach Tips für's Reisen in Vietnam: Ein Freund von ihm wollte für 10 Tage (!!) nach Vietnam reisen. Die Tips, die ich bei dieser Gelegenheit zusamengetragen habe, habe ich seitdem noch mindestens 3x weitergegeben. Deswegen schreibe ich sie jetzt hier auf. Und deshalb in der Dialog-Form...
 
-Servus Till - ein junger Kollege von mir fährt Mitte/Ende November mit einem Kumpel für 10 Tage nach Vietnam. 
+Servus Till - ein junger Kollege von mir fährt Mitte/Ende November mit einem Kumpel für 10 Tage nach Vietnam.
 Bis dato haben sie noch keine konkreten Pläne. Hast Du ein paar Tipps was Mannas Tourist in Vietnam unbedingt gesehen haben sollte?
-Herzlichen Dank schon mal. 
+Herzlichen Dank schon mal.
 LG
 
 Umpf, das ist nicht ganz einfach. Hängt ab davon, was er so mag: eher Stadt, Natur, Party, Museen...
@@ -30,8 +30,8 @@ Hotel in Hanoi & Saigon wo ich gerne absteige. Sehr nett, klein (ich mag die gro
 In beiden Städten gilt: ESSEN! Streetfood, typische Gerichte jeweils. Alles probieren, mutig sein 😂
 Rumkommen: Grab bike. Ist wir Uber. App installieren, auf Karte klicken, moped kommt. Man sitzt hinten drauf und sieht alles aus vietnamesischer Perspektive. Auto steht nur im Stau.
 
-In Saigon habe ich mal eine ganz tolle Vespa Tour ins Mekong Delta gemacht. Einen Tag lang, hinten auf einer Vespa. 
-Die Touren gibt’s auch in Hanoi und Hoi An. 
+In Saigon habe ich mal eine ganz tolle Vespa Tour ins Mekong Delta gemacht. Einen Tag lang, hinten auf einer Vespa.
+Die Touren gibt’s auch in Hanoi und Hoi An.
 
 [Vespa-Adventures](https://vespaadventuretours.com)
 
@@ -41,31 +41,31 @@ Kaffee: VN ist der grösste Kaffeeproduzent der Welt. Haben ganz eigene Kaffeeku
 27 Ngô Đức Kế, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam
 +84 28 3824 6801](https://goo.gl/maps/uyV7neisEPLL8mgJA)
 
-Highlights in Sachen Natur war für uns der Norden: Berge, Dschungel, wunderschön. 
-Sa Pa ist das Chamonix von VN: die Stadt ist scheußlich, aber von dort gehen schöne Touren ab. Auch zum höchsten Gipfel VNs, gilt als letzter Gipfel des Himalayas. Inzwischen geht auch Gondel rauf. Ist aber alles recht voll. 
-Besser hat uns der Nord-Osten gefallen: weniger Touristen, ursprünglicher. Der Ort heisst Ha Giang. Zu besuchen am besten mit Moped, wenn man sich traut. 
-Wenn man dort wandern will ist das Panhou Village ein tolles Basislager (dort bekommt man auch Führer). 
+Highlights in Sachen Natur war für uns der Norden: Berge, Dschungel, wunderschön.
+Sa Pa ist das Chamonix von VN: die Stadt ist scheußlich, aber von dort gehen schöne Touren ab. Auch zum höchsten Gipfel VNs, gilt als letzter Gipfel des Himalayas. Inzwischen geht auch Gondel rauf. Ist aber alles recht voll.
+Besser hat uns der Nord-Osten gefallen: weniger Touristen, ursprünglicher. Der Ort heisst Ha Giang. Zu besuchen am besten mit Moped, wenn man sich traut.
+Wenn man dort wandern will ist das Panhou Village ein tolles Basislager (dort bekommt man auch Führer).
 
 [Ecolodge Panhou Village
 Thông Nguyên, Hoàng Su Phì District, Ha Giang, Vietnam
 +84 96 661 50 50](https://goo.gl/maps/BwKQgb6QLVN8prxy9)
 
-Unsere Gegend war Strand: Zentralvietnam, mit Đà Nẵng und Hoi An. 
-Đà Nẵng ist vietnamesisch, mittlere Stadt. 
-Hoi An ist UNESCO Weltkulturerbe, dementsprechend voll mit Touristen. 
+Unsere Gegend war Strand: Zentralvietnam, mit Đà Nẵng und Hoi An.
+Đà Nẵng ist vietnamesisch, mittlere Stadt.
+Hoi An ist UNESCO Weltkulturerbe, dementsprechend voll mit Touristen.
 Neben den typischen Landmarks aus dem Reiseführer war unser Highlight Tauchen. Kann man auch als nicht-Taucher, quasi reinschnuppern und mal probieren. Wenn tauchen, dann sagen dass man von Till kommt - dann wird der Service netter & günstiger. Jeder Dive Master reagiert auf den Namen 😀
 
 [Vietnam Scuba Diving](http://vietnamscubadiving.com)
 
-Nördlich des Wolkenpasses ist die alte Kaiserstadt Hue. Sehr nett - auch wieder das Essen. 
+Nördlich des Wolkenpasses ist die alte Kaiserstadt Hue. Sehr nett - auch wieder das Essen.
 Neben dem Palast, Perfume river und standard-Orten ist folgendes Hotel sehr empfehlenswert: Luxus aus dem letzten Jahrhundert, sehr netter Service, direkt am Strand...
 
 [Villa Louise Huế - Beach Hotel and Spa
 thôn Hòa Duân, Phú Vang District, Thua Thien Hue 530000, Vietnam
 +84 91 767 36 56](https://goo.gl/maps/QrQpgRNayjeXdWYS7)
 
-Zwischen Đà Nẵng und Hue ist der Zug empfehlenswert: man sieht viel, kann mit den Vietnamesen ratschen - und an den Stationen tolles Essen von den mobilen Händlern kaufen. 
-Mit dem Zug noch weiter nördlich geht’s nach Dong Hoi: in dieser Gegend sind die größten Höhlen der Welt. Wir waren 4x dort, haben unterschiedliche Höhlen besucht, zT SEHR abenteuerlich. 
+Zwischen Đà Nẵng und Hue ist der Zug empfehlenswert: man sieht viel, kann mit den Vietnamesen ratschen - und an den Stationen tolles Essen von den mobilen Händlern kaufen.
+Mit dem Zug noch weiter nördlich geht’s nach Dong Hoi: in dieser Gegend sind die größten Höhlen der Welt. Wir waren 4x dort, haben unterschiedliche Höhlen besucht, zT SEHR abenteuerlich.
 Besten Führer und Ausrüstung:
 
 [Oxalis](oxalis.com.vn)
