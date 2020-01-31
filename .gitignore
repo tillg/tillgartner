@@ -1,4 +1,9 @@
 
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
 ########## Ignore app specific stuff #########
 _site/**/*
 **/temp
